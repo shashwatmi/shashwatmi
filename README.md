@@ -1,84 +1,111 @@
 # 👋 Hi, I'm Shashwat Mishra
 
-I'm a systems engineer and technical leader with a decade-long track record of building high-performance, low-latency systems across fintech, edtech, and embedded domains.
+I'm a **systems engineer** and **technical leader** with over **seven years of experience** building high-performance, **low-latency systems** across **fintech, edtech, and embedded domains**. My work powers production trading engines, real-time analytics, distributed platforms, and embedded solutions—often behind firewalls.
 
-Most of my work lives behind closed doors — production code powering trading engines, real-time analytics pipelines, distributed services, and infrastructure for fast-moving teams. I'm not just a builder; I'm a system thinker, obsessed with edge-case correctness, creative expressiveness in code, and architecture that bends without breaking.
+I excel at **system design**, **creative problem-solving**, and crafting architecture that is **resilient, scalable, and easy to evolve**. I thrive in **async-first teams**, known for combining rapid prototyping with a deep focus on **developer experience** and **business impact**.
 
 ---
 
 ## ⚙️ What I Do
 
-- 🛠 **Built** [Raito](https://github.com/shashwatmi/raito), a Rust-based trading engine with live scripting and backtesting via a custom DSL.
-- 🧪 **Designed** a domain-specific scripting language on top of Rhai, complete with custom syntax parsing, metadata annotations, and documentation pipelines.
-- 🛰 **Engineered** real-time systems from the ground up — with in-memory data stores, predictable latencies, and careful dataflow design.
-- 🔧 **Delivered** internal tools and feedback loops that made engineering teams faster, safer, and more confident in production.
+- 🛠 **Built _Raito_**, a Rust-based, production-grade trading engine with live scripting and backtesting via a custom DSL  
+- 🧪 **Designed a strategy DSL**, enabling composable analytics and real-time iteration in live and simulated markets  
+- 🛰 **Engineered real-time, event-driven systems** with in-memory data stores and predictable, sub-millisecond latency  
+- 🔧 **Delivered foundational infrastructure**, developer tools, and live data pipelines used in national-scale events and high-concurrency systems  
+- 🤝 **Led and mentored cross-functional teams**, working closely with product, infra, and quantitative stakeholders
 
 ---
 
 ## 🧠 Tech Stack & Tools
 
-**Languages:** Rust, Go, Python, C++, PHP, C#, Assembly, Haskell  
-**Systems:** Postgres, Redis, NATS, WebAssembly (WASM)  
-**Infra:** Docker, GitHub Actions, Prometheus, Grafana  
-**Patterns:** Distributed Systems, Event-Driven Design, Real-Time Dataflows  
+**Languages:**  
+Rust, Go, Python, C++, TypeScript, PHP, C#, Assembly, Haskell
+
+**Frameworks & Platforms:**  
+Node.js, GraphQL, LoopBack, Express.js, React, Next.js, WebAssembly (WASM)
+
+**Infrastructure & DevOps:**  
+Docker, GitHub Actions, Prometheus, Grafana, CI/CD, Linux, NGINX, IaC
+
+**Datastores & Systems:**  
+Postgres, Redis, NATS, MongoDB, MySQL, InfluxDB, SQLite
+
+**Cloud:**  
+AWS, GCP, Firebase, Vercel, Netlify, Heroku
+
+**Architecture Patterns:**  
+Distributed Systems, Event-Driven Design, Microservices, Real-Time Dataflows, DDD
+
+**Observability & Monitoring:**  
+Grafana, Prometheus, Sentry, New Relic, Datadog
+
+**Other:**  
+REST, GraphQL, WebSocket, Discord API, Docusaurus
 
 ---
 
-## 🧩 What I'm Really Good At
+## 📊 Impact & Highlights
 
-My specialty isn’t a language or framework — it’s **solving hard technical problems where no playbook exists**.
-
-Whether it’s designing a new DSL, shaving microseconds off critical paths, or building infrastructure that scales under pressure — I bring calm, clarity, and deep systems thinking to ambiguous challenges.
-
----
-
-## 📊 Highlights
-
-- ⚡ Reduced trading latency by **70%+**, handling **100K+ trades/sec** under synthetic load.
-- 🧠 Built a live backtesting system that enables real-time iteration on trading strategies.
-- 🧭 Led and mentored cross-functional teams (3–6 engineers), collaborating tightly with product, infra, and quant teams.
-- 🚧 Shipped foundational infrastructure that unlocked entire product lines and enabled faster experimentation.
+- ⚡ **Reduced trading latency by over 70%**, scaling to **100,000+ trades/sec** under synthetic load  
+- 🧠 **Built live backtesting and simulation engines**, enabling real-time iteration and analytics  
+- 🚀 **Delivered infrastructure for international chess events**, integrating biometric data for major tournaments  
+- 🧩 **Drove digital transformation and platform launches** across fintech, edtech, and embedded hardware  
+- 🏆 **Built systems for Fortune 500 fintechs, leading banks, and global agencies**, with a focus on scalability, security, and business value
 
 ---
 
 ## 🚀 Notable Projects
 
-- **Raito** – Low-latency trading engine with live strategy scripting
-- **Simulo** – Simulation toolkit for rapid backtests and stress tests ([repo](https://github.com/shashwatmi/simulo))  
+- **Raito** – Low-latency trading engine with live strategy scripting  
+- **Simulo** – [Simulation toolkit for rapid backtests and stress testing](https://github.com/shashwatmi/simulo)  
+- **Virtual DOM Engine** – React-like diffing in TypeScript + WASM for performant frontends  
+- **Blockchain Crowdfunding Platform** – Transparent, milestone-based fundraising using Solidity, C++, JavaScript  
+- **Go Task Queue** – Distributed task runner using Redis and in-memory backends  
+- **E-commerce Backend API** – Modular backend designed for high-concurrency retail systems
 
 ---
 
-## 🌍 Community & Engineering Culture
+## 🧭 How I Work
 
-- 🛠 Advocate for clean APIs, expressive tooling, and developer experience.
-- 📚 Contributor to internal systems design documentation and language tooling.
-- 🧠 Passionate about building tools that empower other builders.
-
----
-
-## 🧭 Core Engineering Principles
-
-- **First principles > frameworks**  
+- **First principles over frameworks**  
 - **Clarity over cleverness**  
 - **Build for change, not just for now**  
 - **Code should teach its reader**  
+- **Tools should amplify humans**  
+- **Work speaks loudest**
+
+---
+
+## 🌍 Community & Culture
+
+- 🛠 Advocate for clean APIs, expressive tooling, and strong developer experience  
+- 📚 Contributor and mentor in documentation, architecture design, and engineering culture  
+- 🧠 Speaker and facilitator for system design sessions, cloud workshops, and career mentoring  
+- 🤝 Passionate about async collaboration, knowledge sharing, and building high-trust teams
+
+---
+
+## 🎤 Talks & Recognition
+
+- 🎤 **Guest speaker:** *The Art of Product Architecture Design*  
+- 💡 **Built**: Live biometric heart-rate monitoring system for Tata Steel Chess with ChessBase India  
+- 📄 **Published research** on consumer behavior and mental health via data analysis  
+- 🏅 **Honored Chief Guest** at Medicap International Football Championship
 
 ---
 
 ## 🤔 Why My GitHub Looks Quiet
 
-Most of my work exists behind firewalls — production systems for companies, not public repos.  
-But when I do open-source something, I care deeply about polish, docs, and design.
-
-Curious about my work? I’m happy to discuss private projects or swap engineering stories.
+Most of my work lives behind company firewalls — powering production systems, not public repos.  
+Curious about what I’ve built? I’m happy to discuss private projects or swap engineering stories.
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌍 [shashwatmi.github.io](https://shashwatmi.github.io) (coming soon)  
-- 💼 [LinkedIn](https://linkedin.com/in/shashwatmi)  
+🌍 [shashwatmi.github.io](https://shashwatmi.github.io) (coming soon)  
+💼 [linkedin.com/in/shashwatmi](https://linkedin.com/in/shashwatmi)
 
 ---
 
-_“I'm at my best when there's no playbook.”_
+**_"I am at my best when there is no playbook."_**
