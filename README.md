@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shashwat Mishra
+# 👋 Hi, I'm Shashwat
 
 I'm a **systems engineer** and **technical leader** with over **seven years of experience** building high-performance, **low-latency systems** across **fintech, edtech, and embedded domains**. My work powers production trading engines, real-time analytics, distributed platforms, and embedded solutions—often behind firewalls.
 
